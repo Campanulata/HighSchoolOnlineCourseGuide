@@ -20,8 +20,6 @@
 
 # <span id="head1"> 高中网课指南</span>
 
-[toc]
-
 ## <span id="head2"> 平台</span>
 
 ### <span id="head3"> 新东方网课</span>
@@ -55,9 +53,10 @@
 ## <span id="head10"> 讲师</span>
 
 SSS 圈内大佬，一节课告诉你什么叫实力登封造极
+
 A 机构王牌
+
 B 一二线城市老师水平
-C 混子级别
 
 ### <span id="head11"> 语文</span>
 
