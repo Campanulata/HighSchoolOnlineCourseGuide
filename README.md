@@ -8,15 +8,6 @@
     - [北京四中网校](#head8)
     - [精华在线](#head9)
   - [讲师](#head10)
-    - [语文](#head11)
-    - [数学](#head15)
-    - [英语](#head19)
-    - [物理](#head23)
-    - [化学](#head27)
-    - [生物](#head31)
-    - [政治](#head35)
-    - [历史](#head39)
-    - [地理](#head43)
 
 # <span id="head1"> 高中网课指南</span>
 
@@ -58,128 +49,14 @@ A 机构王牌
 
 B 一二线城市老师水平
 
-### <span id="head11"> 语文</span>
-
-#### <span id="head12"> SSS</span>
-
-国家玮 乘风 杨洋
-
-#### <span id="head13"> A</span>
-
-殷丽娜 杨勇 陈焕文 赵佳骏 马昕 关也
-
-#### <span id="head14"> B</span>
-
-董腾 曲增瑞 吕晶莹 赵平 杨红子
-
-### <span id="head15"> 数学</span>
-
-#### <span id="head16"> SSS</span>
-
-赵礼显 周帅 郭化楠
-
-#### <span id="head17"> A</span>
-
-孟祥飞 司马红丽 苗金利 李永乐 蒋叶光
-
-#### <span id="head18"> B</span>
-
-陈国栋 徐宣庆 黄冠 张华 肖晗 王文勇 凉学长
-
-### <span id="head19"> 英语</span>
-
-#### <span id="head20"> SSS</span>
-
-陶然 徐磊
-
-#### <span id="head21"> A</span>
-
-巴哈 顾斐
-
-#### <span id="head22"> B</span>
-
-斯琴 崔妍 王赞 靳静 罗曦祥 曾菡灵 刘旸
-
-### <span id="head23"> 物理</span>
-
-#### <span id="head24"> SSS</span>
-
-夏梦迪 赵星义 李琳
-
-#### <span id="head25"> A</span>
-
-张雯 耿佩 郑少龙 赵化民
-
-#### <span id="head26"> B</span>
-
-刘杰 坤哥
-
-### <span id="head27"> 化学</span>
-
-#### <span id="head28"> SSS</span>
-
-李政 陆艳华
-
-#### <span id="head29"> A</span>
-
-高东辉 郑瑞 俞锋
-
-#### <span id="head30"> B</span>
-
-木子 廖耀华 张鹤至 陈锐宁 铁健栩
-
-### <span id="head31"> 生物</span>
-
-#### <span id="head32"> SSS</span>
-
-李泓渟 张鹏 万猛 周芳煜
-
-#### <span id="head33"> A</span>
-
-张继光 任春磊 刘大鹏 高立新
-
-#### <span id="head34"> B</span>
-
-谭远钰 张元振 陆巍巍 高阳 宿阳 李林
-
-### <span id="head35"> 政治</span>
-
-#### <span id="head36"> SSS</span>
-
-郑关飞 李谓
-
-#### <span id="head37"> A</span>
-
-马宇轩 刘佳彬
-
-#### <span id="head38"> B</span>
-
-刘燊 徐微微 刘勖雯 王雪
-
-### <span id="head39"> 历史</span>
-
-#### <span id="head40"> SSS</span>
-
-关也 袁腾飞 石国鹏
-
-#### <span id="head41"> A</span>
-
-李珊玥 周建定 李光 段北辰
-
-#### <span id="head42"> B</span>
-
-刘勖雯 唐浩
-
-### <span id="head43"> 地理</span>
-
-#### <span id="head44"> SSS</span>
-
-张艳平 安迎
-
-#### <span id="head45"> A</span>
-
-崔亚非
-
-#### <span id="head46"> B</span>
-
-李芸乐 王志伟
+|     | SSS  |A|B|
+|  ----  | ----  | ----  | ----  |
+| 语文  | 国家玮 乘风 杨洋 |殷丽娜 杨勇 陈焕文 赵佳骏 马昕 关也|董腾 曲增瑞 吕晶莹 赵平 杨红子|
+| 数学  | 赵礼显 周帅 郭化楠|孟祥飞 司马红丽 苗金利 李永乐 蒋叶光|陈国栋 徐宣庆 黄冠 张华 肖晗 王文勇 凉学长|
+|英语|陶然 徐磊|巴哈 顾斐|斯琴 崔妍 王赞 靳静 罗曦祥 曾菡灵 刘旸|
+|物理|夏梦迪 赵星义 李琳|张雯 耿佩 郑少龙 赵化民|刘杰 坤哥|
+|化学|李政 陆艳华|高东辉 郑瑞 俞锋|木子 廖耀华 张鹤至 陈锐宁 铁健栩|
+|生物|李泓渟 张鹏 万猛 周芳煜|张继光 任春磊 刘大鹏 高立新|谭远钰 张元振 陆巍巍 高阳 宿阳 李林|
+|政治|郑关飞 李谓|马宇轩 刘佳彬|刘燊 徐微微 刘勖雯 王雪|
+|历史|关也 袁腾飞 石国鹏|李珊玥 周建定 李光 段北辰|刘勖雯 唐浩|
+|地理|张艳平 安迎|崔亚非|李芸乐 王志伟|
