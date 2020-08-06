@@ -3,47 +3,20 @@
     - [新东方网课](#head3)
     - [学而思网校](#head4)
     - [腾讯教育](#head5)
-    - [ [企鹅辅导](https://fudao.qq.com/recommend_activity.html?ctu=899&s=5)](#head6)
+    - [企鹅辅导](#head6)
     - [简单学习网](#head7)
     - [北京四中网校](#head8)
     - [精华在线](#head9)
   - [讲师](#head10)
     - [语文](#head11)
-      - [SSS](#head12)
-      - [A](#head13)
-      - [B](#head14)
     - [数学](#head15)
-      - [SSS](#head16)
-      - [A](#head17)
-      - [B](#head18)
     - [英语](#head19)
-      - [SSS](#head20)
-      - [A](#head21)
-      - [B](#head22)
     - [物理](#head23)
-      - [SSS](#head24)
-      - [A](#head25)
-      - [B](#head26)
     - [化学](#head27)
-      - [SSS](#head28)
-      - [A](#head29)
-      - [B](#head30)
     - [生物](#head31)
-      - [SSS](#head32)
-      - [A](#head33)
-      - [B](#head34)
     - [政治](#head35)
-      - [SSS](#head36)
-      - [A](#head37)
-      - [B](#head38)
     - [历史](#head39)
-      - [SSS](#head40)
-      - [A](#head41)
-      - [B](#head42)
     - [地理](#head43)
-      - [SSS](#head44)
-      - [A](#head45)
-      - [B](#head46)
 
 # <span id="head1"> 高中网课指南</span>
 
@@ -63,9 +36,9 @@
 
 借助腾讯服务11亿用户的连接能力，在云计算、大数据、人工智能的领先技术，以及在数字内容的丰富积累，面向教育管理部门、学校、教育机构和个人，覆盖学前教育、基础教育、高等教育、高职教育和终身教育，通过做好连接与行业共创属于每一个人的智能教育时代。
 
-### <span id="head6"> [企鹅辅导](https://fudao.qq.com/recommend_activity.html?ctu=899&s=5)</span>
+### <span id="head6"> 企鹅辅导</span>
 
-是一款由腾讯推出的针对中小学生学习的辅导应用，学生可以在应用内参与名师的在线直播课程，与老师实时交流答疑，同时会有资料、习题配套内容帮助学生掌握相关知识。
+[企鹅辅导是一款由腾讯推出的针对中小学生学习的辅导应用，学生可以在应用内参与名师的在线直播课程，与老师实时交流答疑，同时会有资料、习题配套内容帮助学生掌握相关知识。](https://fudao.qq.com/recommend_activity.html?ctu=899&s=5)
 
 ### <span id="head7"> 简单学习网</span>
 
